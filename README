@@ -4,9 +4,6 @@
   \/\_____\\/\_____\  Based off http://friedspace.com/SDLTest.c use it if you need
    \/_____/ \/_____/  your drawing code to span multiple files. This is just for
                       simple experimentation and fiddling around. For any
-      Keep Calm       decent size project do not use this.
+      Keep Calm       decent size project do not use this. 
        Hack On        
-        Germ          This code is just a little hack to make experimentation
-                      quick and easy. And yes the style is terrible. This was
-                      just a quick little bit of code for personal use that a
-                      friend wanted to see.
+        Germ          At some point in the future I'll clean up the code.
