@@ -1,3 +1,5 @@
+/* Compile with gcc -lSDL -lm main.c */
+
 #include "SS.c"
 
 int SS_WIDTH      = 800;
